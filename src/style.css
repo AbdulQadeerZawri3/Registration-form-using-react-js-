@@ -1,0 +1,34 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(rgba(155, 103, 103), rgba(255, 255, 255)),
+    url('https://www.pexels.com/photo/close-up-photography-of-colored-pencils-743986/');
+  background-size: cover;
+  background-position: center;
+}
+
+form {
+  background-color: white;
+  padding: 0px 30px;
+  border-radius: 10px;
+}
+
+h1{
+  color: rgb(38, 6, 68);
+  font-weight: bold;
+  align-items: center;
+}
+button{
+  width: 100%;
+  height: 50%;
+  background-color: rgb(38, 6, 68);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+
+}
+
